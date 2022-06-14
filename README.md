@@ -17,6 +17,12 @@ Build sound spreadsheet models to solve business problems, and then draw meaning
     p	 = coefficient of innovation \
     q	 = coeffecient of imitation
 
+Base Model:
+![image](https://user-images.githubusercontent.com/102925575/173697707-19d06c9b-e632-49d7-9cd1-01096d5de4b1.png)
+
+Simulation Model:
+![image](https://user-images.githubusercontent.com/102925575/173701164-1ea6047a-88ee-44ec-8f18-f22b0f057539.png)
+
 Read Further about Bass Diffusion Model: 
 - [Wiki](https://en.wikipedia.org/wiki/Bass_diffusion_model)
 - [entertainmentstrategyguy.com](https://entertainmentstrategyguy.com/2019/09/11/the-bass-diffusion-modelexplained-the-most-important-shape-of-the-streaming-wars/)
