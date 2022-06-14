@@ -27,4 +27,3 @@ Read Further about Bass Diffusion Model:
 - [Wiki](https://en.wikipedia.org/wiki/Bass_diffusion_model)
 - [entertainmentstrategyguy.com](https://entertainmentstrategyguy.com/2019/09/11/the-bass-diffusion-modelexplained-the-most-important-shape-of-the-streaming-wars/)
 
-3. Estimating Value of Customer
